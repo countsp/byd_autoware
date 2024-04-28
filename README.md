@@ -4,13 +4,11 @@
 
 ![Screenshot from 2024-04-28 01-13-14](https://github.com/countsp/byd_autoware/assets/102967883/d74c8752-5f11-49fe-9db5-a198f2ef89ca)
 
-2.打开生成的 /home/chopin/.ssh/id_rsa.pub 公钥
+2.打开生成的 /home/chopin/.ssh/id_rsa.pub 公钥,并复制
 
-复制
+进入 https://github.com/settings/keys ，粘贴公钥
 
-进入https://github.com/settings/keys，粘贴
-
-添加成功后就会显示出来，配置好之后，Github 远程仓库就可以和你的电脑通过 ssh 进行连接了。
+添加成功后就会显示出来，配置好之后，Github 远程仓库就可以和你的电脑通过 ssh 进行连接。
 
 ![Screenshot from 2024-04-28 01-19-41](https://github.com/countsp/byd_autoware/assets/102967883/3e8f61fc-7dd6-4d44-8567-53b2e4f5432b)
 
