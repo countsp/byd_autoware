@@ -21,6 +21,25 @@
 
 4. 进入本地，新建 workspace
 
+```
+git init
+
+git add -A
+
+git status
+
+git commit -m "adding a file"
+
+git remote add origin git@github.com:countsp/byd_autoware.git
+
+git remote set-url origin git@github.com:countsp/byd_autoware.git
+
+git pull --rebase origin master
+
+git push origin master
+
+```
+
 git init - 初始化一个新的Git仓库。这将在当前目录下创建一个.git文件夹，里面包含了所有的Git配置文件。
 
 git add -A - 将当前目录下的所有更改（包括新文件、修改过的文件、删除的文件）添加到暂存区。这是准备将这些更改提交到仓库的一个步骤。
