@@ -1,6 +1,8 @@
-## launch 文件 （planning simulation）
+# launch 文件分析 （planning simulation）
 
-xml格式：
+此xml文件定义了地图路径、车辆模型、传感器模型
+
+**xml一般格式：**
 
 ```
 <launch>             //这是所有 ROS 启动文件的根元素。所有的 ROS 启动配置都被包含在 <launch> 标签中。
@@ -12,6 +14,15 @@ xml格式：
 
   </group>
 </launch>
+```
+
+调用时 arg name 参数可以自定义，例如下面启动命令 定义了map_path目录与vehicle_model。
+
+```
+    ros2 launch autoware_launch planning_simulator.launch.xml map_path:=$HOME/autoware_map/sample-map-planning vehicle_model:=sample_vehicle sensor_model:=sample_sensor_kit
+```
+
+原xml如下
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
@@ -105,3 +116,4 @@ xml格式：
     </include>
   </group>
 </launch>
+```
