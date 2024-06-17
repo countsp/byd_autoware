@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T06:18:29.487Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="O2rnP64dDUZe7-k1B-Om" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T02:20:39.154Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Ujl7CZ7SQj4d_2l36TMX" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2901" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -53,22 +53,49 @@
           <mxGeometry x="319" y="80" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-8" value="map.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="520" width="190" height="40" as="geometry" />
+          <mxGeometry x="319" y="640" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-9" target="oVntcMu7PJR9cov9_xhP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-9" target="oVntcMu7PJR9cov9_xhP-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="990" />
+              <mxPoint x="520" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-9" target="oVntcMu7PJR9cov9_xhP-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="990" />
+              <mxPoint x="520" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-9" target="oVntcMu7PJR9cov9_xhP-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="990" />
+              <mxPoint x="520" y="1070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-9" value="sensing.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="570" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="970" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-10" value="localization.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="620" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="1190" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-11" value="perception.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="670" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="1240" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-12" value="planning.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="720" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="1290" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-13" value="control.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="770" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="1340" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="TUt2pirhL9gMtHY99sxS-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,36 +104,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-25" value="autoware_api.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="319" y="820" width="190" height="40" as="geometry" />
+          <mxGeometry x="310" y="1390" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-0" value="&lt;div&gt;自动调用generate_launch_description()&lt;/div&gt;&lt;div&gt;进入launch_setup()&lt;/div&gt;&lt;div&gt;找到车辆模型信息&lt;br&gt;&lt;/div&gt;&lt;div&gt;配置和加载车辆信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-0" value="&lt;div&gt;自动调用generate_launch_description()&lt;/div&gt;&lt;div&gt;进入launch_setup()&lt;/div&gt;&lt;div&gt;找到车辆模型信息&lt;br&gt;&lt;/div&gt;&lt;div&gt;配置和加载车辆信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="-270" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-1" value="vehicle_info.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-1" value="vehicle_info.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="-250" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-2" value="&lt;div&gt;获取车辆配置文件的路径&lt;/div&gt;&lt;div&gt;打开和解析 vehicle_info.param.yaml文件&lt;/div&gt;&lt;div&gt;从中提取配置的 ROS 参数&lt;/div&gt;&lt;div&gt;设置从 YAML 文件中加载的参数。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-2" value="&lt;div&gt;获取车辆配置文件的路径&lt;/div&gt;&lt;div&gt;打开和解析 vehicle_info.param.yaml文件&lt;/div&gt;&lt;div&gt;从中提取配置的 ROS 参数&lt;/div&gt;&lt;div&gt;设置从 YAML 文件中加载的参数。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1010" y="-270" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-3" value="wheel_radius: 0.383 # The radius of the wheel, primarily used for dead reckoning.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_width: 0.235 # The lateral width of a wheel tire, primarily used for dead reckoning.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_base: 2.79 # between front wheel center and rear wheel center&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_tread: 1.64 # between left wheel center and right wheel center&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; front_overhang: 1.0 # between front wheel center and vehicle front&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; rear_overhang: 1.1 # between rear wheel center and vehicle rear&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; left_overhang: 0.128 # between left wheel center and vehicle left&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; right_overhang: 0.128 # between right wheel center and vehicle right&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; vehicle_height: 2.5&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; max_steer_angle: 0.70 # [rad]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-3" value="wheel_radius: 0.383 # The radius of the wheel, primarily used for dead reckoning.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_width: 0.235 # The lateral width of a wheel tire, primarily used for dead reckoning.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_base: 2.79 # between front wheel center and rear wheel center&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; wheel_tread: 1.64 # between left wheel center and right wheel center&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; front_overhang: 1.0 # between front wheel center and vehicle front&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; rear_overhang: 1.1 # between rear wheel center and vehicle rear&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; left_overhang: 0.128 # between left wheel center and vehicle left&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; right_overhang: 0.128 # between right wheel center and vehicle right&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; vehicle_height: 2.5&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; max_steer_angle: 0.70 # [rad]" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1360" y="-320" width="540" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-5" value="声明是否使用&lt;b&gt;多线程&lt;/b&gt;和&lt;b&gt;容器名称&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-5" value="声明是否使用&lt;b&gt;多线程&lt;/b&gt;和&lt;b&gt;容器名称&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="-160" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-7" value="&lt;div&gt;&lt;code&gt;加载vehicle.xacro配置文件&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code&gt;launch_vehicle_interface&lt;/code&gt; 为真，则包含启动文件 &lt;code&gt;vehicle_interface.launch.xml&lt;/code&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-7" value="&lt;div&gt;&lt;code&gt;加载vehicle.xacro配置文件&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code&gt;launch_vehicle_interface&lt;/code&gt; 为真，则包含启动文件 &lt;code&gt;vehicle_interface.launch.xml&lt;/code&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="-50" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-8" value="&lt;code&gt;vehicle.xacro&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-8" value="&lt;code&gt;vehicle.xacro&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="-30" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-9" value="&lt;div&gt;调用vehicle_info.param.yaml&lt;/div&gt;&lt;div&gt;调用车辆模型lexus.dae&lt;/div&gt;&lt;div&gt;xyzrpy控制位置角度，其中scale控制大小&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-9" value="&lt;div&gt;调用vehicle_info.param.yaml&lt;/div&gt;&lt;div&gt;调用车辆模型lexus.dae&lt;/div&gt;&lt;div&gt;xyzrpy控制位置角度，其中scale控制大小&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="-55" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-11">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-14">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="100" />
@@ -114,35 +141,146 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-10" value="配置和启动多个与车辆系统监控和控制相关的 ROS 节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oVntcMu7PJR9cov9_xhP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="100" />
+              <mxPoint x="790" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="100" />
+              <mxPoint x="790" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="100" />
+              <mxPoint x="790" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVVuM_nYEZaegkw_f5pE-10" target="aVVuM_nYEZaegkw_f5pE-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="100" />
+              <mxPoint x="790" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-10" value="配置和启动多个与车辆系统监控和控制相关的 ROS 节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="70" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-11" value="system_monitor.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-11" value="system_monitor.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="80" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-12" value="调用cpu、硬盘、内存等监控yaml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-12" value="调用cpu、硬盘、内存等监控yaml" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="70" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-14" value="component_state_monitor.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-14" value="component_state_monitor.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="150" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-15" value="生成监控节点的名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-15" value="生成监控节点的名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1040" y="145" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-17" value="&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /map/vector_map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_mapping_msgs/msg/HADMapBin&lt;br&gt;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /map/pointcloud_map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: sensor_msgs/msg/PointCloud2&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /initialpose3d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: geometry_msgs/msg/PoseWithCovarianceStamped&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /localization/pose_twist_fusion_filter/pose&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: geometry_msgs/msg/PoseStamped&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /perception/obstacle_segmentation/pointcloud&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: sensor_msgs/msg/PointCloud2&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /perception/object_recognition/objects&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_perception_msgs/msg/PredictedObjects&lt;br&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /planning/mission_planning/route&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_planning_msgs/msg/LaneletRoute&lt;br&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /planning/scenario_planning/trajectory&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_planning_msgs/msg/Trajectory&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /control/trajectory_follower/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /control/command/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /vehicle/status/velocity_status&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_vehicle_msgs/msg/VelocityReport&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /vehicle/status/steering_status&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_vehicle_msgs/msg/SteeringReport&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /system/emergency/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /tf&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; frame_id: map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; child_frame_id: base_link&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-17" value="&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /map/vector_map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_mapping_msgs/msg/HADMapBin&lt;br&gt;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /map/pointcloud_map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: sensor_msgs/msg/PointCloud2&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /initialpose3d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: geometry_msgs/msg/PoseWithCovarianceStamped&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /localization/pose_twist_fusion_filter/pose&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: geometry_msgs/msg/PoseStamped&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /perception/obstacle_segmentation/pointcloud&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: sensor_msgs/msg/PointCloud2&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /perception/object_recognition/objects&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_perception_msgs/msg/PredictedObjects&lt;br&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /planning/mission_planning/route&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_planning_msgs/msg/LaneletRoute&lt;br&gt;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /planning/scenario_planning/trajectory&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_planning_msgs/msg/Trajectory&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /control/trajectory_follower/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /control/command/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /vehicle/status/velocity_status&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_vehicle_msgs/msg/VelocityReport&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /vehicle/status/steering_status&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_vehicle_msgs/msg/SteeringReport&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /system/emergency/control_cmd&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic_type: autoware_auto_control_msgs/msg/AckermannControlCommand&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; topic: /tf&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; frame_id: map&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; child_frame_id: base_link&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1350" y="-100" width="540" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-18" value="system_error_monitor.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-18" value="system_error_monitor.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="210" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-19" value="emergency_handler.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-19" value="emergency_handler.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="270" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-20" value="mrm_comfortable_stop_operator.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-20" value="mrm_comfortable_stop_operator.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="330" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVVuM_nYEZaegkw_f5pE-21" value="mrm_emergency_stop_operator.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aVVuM_nYEZaegkw_f5pE-21" value="mrm_emergency_stop_operator.launch.py" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="390" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oVntcMu7PJR9cov9_xhP-0" target="oVntcMu7PJR9cov9_xhP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="660" />
+              <mxPoint x="790" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oVntcMu7PJR9cov9_xhP-0" target="oVntcMu7PJR9cov9_xhP-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="660" />
+              <mxPoint x="790" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oVntcMu7PJR9cov9_xhP-0" target="oVntcMu7PJR9cov9_xhP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="660" />
+              <mxPoint x="790" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oVntcMu7PJR9cov9_xhP-0" target="oVntcMu7PJR9cov9_xhP-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="660" />
+              <mxPoint x="790" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oVntcMu7PJR9cov9_xhP-0" target="oVntcMu7PJR9cov9_xhP-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="660" />
+              <mxPoint x="790" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-0" value="设定用于地图加载的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="640" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-1" value="lanelet2_map_loader.param.yaml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="590" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-3" value="pointcloud_map_loader.param.yaml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="650" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-10" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="1130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-11" value="lanelet2_map.osm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="710" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-12" value="pointcloud_map.pcd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="770" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-19" value="中央线分辨率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="585" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-20" value="加载全部地图/降采样地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="645" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-21" value="map_hash_generator" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="825" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-23" value="lidar.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="900" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-24" value="imu.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="950" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-25" value="gnss.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1000" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-26" value="vehicle_velocity_converter.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1050" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
