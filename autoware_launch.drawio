@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T06:08:39.097Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="4dcHOXcLDvzv6yqeWP5T" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T06:13:24.948Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="f-ImSY5CyLNWLlxuCQTH" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2210" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -633,10 +633,10 @@
           <mxGeometry x="560" y="3480" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-156" value="detection.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="3840" width="260" height="40" as="geometry" />
+          <mxGeometry x="560" y="3680" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-157" value="物体检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="3840" width="250" height="40" as="geometry" />
+          <mxGeometry x="840" y="3680" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-158" value="概率栅格地图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="3480" width="250" height="40" as="geometry" />
@@ -645,22 +645,22 @@
           <mxGeometry x="840" y="3420" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-160" value="tracking.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="3900" width="260" height="40" as="geometry" />
+          <mxGeometry x="560" y="3950" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-161" value="路径跟随" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="3900" width="250" height="40" as="geometry" />
+          <mxGeometry x="840" y="3950" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-162" value="prediction.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="3960" width="260" height="40" as="geometry" />
+          <mxGeometry x="560" y="4010" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-163" value="感知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="3960" width="260" height="40" as="geometry" />
+          <mxGeometry x="840" y="4010" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-164" value="empty_objects_publisher" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="4020" width="250" height="44" as="geometry" />
+          <mxGeometry x="560" y="4070" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-165" value="traffic_light.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="4080" width="260" height="40" as="geometry" />
+          <mxGeometry x="560" y="4130" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-167" value="ground_segmentation.launch.py" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="3416" width="250" height="44" as="geometry" />
@@ -670,6 +670,24 @@
         </mxCell>
         <mxCell id="oVntcMu7PJR9cov9_xhP-169" value="laserscan_based_occupancy_grid_map.launch.py" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="3536" width="350" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-170" value="multi_lidar_pointcloud_based_occupancy_grid_map.launch.py" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="3600" width="350" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-171" value="&lt;div&gt;camera_lidar_detector.launch.xml&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="3680" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-172" value="lidar_dnn_detector.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="3740" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-173" value="radar_detector.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="3800" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-174" value="camera_lidar_radar_merger.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="3860" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oVntcMu7PJR9cov9_xhP-175" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="3720" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
