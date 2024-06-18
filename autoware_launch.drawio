@@ -1,16 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T02:03:00.398Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="kv2JTqPWVsqmYyf3jc6A" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T02:04:23.338Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="p2-SpTIAFI31s9XtJhV_" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2257" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3790" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="planning_simulator.launch.xml" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-100" y="190" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="TUt2pirhL9gMtHY99sxS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="EWykg1riu8QqkKSn6l6j-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="EWykg1riu8QqkKSn6l6j-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;div&gt;autoware.launch.xml&lt;/div&gt;主启动文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="190" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-6" target="jEKhcFakD323NPHfQUps-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TUt2pirhL9gMtHY99sxS-6" target="jEKhcFakD323NPHfQUps-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TUt2pirhL9gMtHY99sxS-6" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;vehicle.launch.xml&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;CAdojLoYoGOX25IxwPIC&quot;&gt;&lt;code&gt;加载&lt;/code&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;vehicle.xacro&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;CAdojLoYoGOX25IxwPIC&quot;&gt;&lt;code&gt;配置文件&lt;/code&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1269,14 +1281,32 @@
         <mxCell id="EWykg1riu8QqkKSn6l6j-144" value="pointcloud_container.launch.py&lt;br&gt;&lt;div&gt;配置和启动点云容器&lt;/div&gt;&lt;div&gt;声明是否使用&lt;b&gt;多线程&lt;/b&gt;和&lt;b&gt;容器名称&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="319" y="-478" width="191" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-2" target="jEKhcFakD323NPHfQUps-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-2" target="jEKhcFakD323NPHfQUps-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-2" value="&lt;div&gt;vehicle.xacro&lt;/div&gt;调用另外两个xacro" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-348" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-4" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;vehicle_interface.launch.xml&lt;br&gt;&lt;/font&gt;车辆ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555.5" y="30" width="199" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-5" target="aVVuM_nYEZaegkw_f5pE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-5" value="&lt;div&gt;vehicle.xacro&lt;/div&gt;&lt;div&gt;调用车辆模型lexus.dae&lt;/div&gt;xyzrpy控制位置角度，其中scale控制大小" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="-366.5" width="240" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-6" target="jEKhcFakD323NPHfQUps-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-6" target="jEKhcFakD323NPHfQUps-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEKhcFakD323NPHfQUps-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jEKhcFakD323NPHfQUps-6" target="jEKhcFakD323NPHfQUps-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-6" value="&lt;div&gt;sensors.xacro&lt;/div&gt;&lt;div&gt;传感器相对base_link的位置xyzrpy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="-245" width="240" height="60" as="geometry" />
@@ -1288,7 +1318,7 @@
           <mxGeometry x="3086" y="-1050" width="540" height="260" as="geometry" />
         </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-13" value="&lt;div&gt;sensors_calibration.yaml&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="-245" width="240" height="55.5" as="geometry" />
+          <mxGeometry x="1080" y="-243" width="240" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="jEKhcFakD323NPHfQUps-14" value="sensor_kit.xacro&lt;br&gt;&lt;div&gt;激光雷达、摄像头、GNSS、IMU&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="-150.5" width="240" height="55.5" as="geometry" />
